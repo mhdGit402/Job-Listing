@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "e750",
+      "type": "Full-Time",
+      "title": "Officia voluptates v",
+      "description": "Ut temporibus nulla ",
+      "location": "Et fugit dolorum pe",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Anthony Kirby Co",
+        "description": "Aliquam ducimus sit",
+        "contactEmail": "hyzex@mailinator.com",
+        "contactPhone": "+1 (996) 642-1757"
+      }
+    },
+    {
+      "id": "a330",
+      "type": "Part-Time",
+      "title": "Sunt ipsam mollit en",
+      "description": "Suscipit similique l",
+      "location": "Aut quibusdam nisi q",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Kirkland and Wong Associates",
+        "description": "Assumenda elit pari",
+        "contactEmail": "lytezaxo@mailinator.com",
+        "contactPhone": "+1 (263) 407-8668"
+      }
+    },
+    {
+      "type": "Part-Time",
+      "title": "Cupidatat tempor con",
+      "description": "Nihil sint nesciunt",
+      "location": "Harum odit quo asper",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Tucker and Church Traders",
+        "description": "Suscipit similique d",
+        "contactEmail": "podide@mailinator.com",
+        "contactPhone": "+1 (694) 857-2324"
+      },
+      "id": "9860"
+    },
+    {
+      "id": "1c77",
+      "type": "Part-Time",
+      "title": "Quos sit dolores ip",
+      "description": "Quia rerum do exerci",
+      "location": "Ipsa adipisci dicta",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Guerrero Cabrera Traders",
+        "description": "Maxime deserunt qui ",
+        "contactEmail": "lopix@mailinator.com",
+        "contactPhone": "+1 (276) 829-1704"
+      }
+    },
+    {
+      "id": "861c",
+      "type": "Remote",
+      "title": "Enim rerum tempor ha",
+      "description": "Deserunt earum sed e",
+      "location": "Ex incidunt digniss",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Stout Singleton Plc",
+        "description": "Expedita maiores est",
+        "contactEmail": "mycycuci@mailinator.com",
+        "contactPhone": "+1 (751) 313-7167"
+      }
+    }
+  ]
+}
